@@ -17,3 +17,4 @@ chat_id = '6162808595'
 message_text = 'Hello, this is a test message from your Telegram bot!'
 
 send_telegram_message(bot_token, chat_id, message_text)
+exit()
